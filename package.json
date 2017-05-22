@@ -1,0 +1,29 @@
+{
+  "name": "places",
+  "version": "1.0.0",
+  "description": "places",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.2",
+    "gulp-zip": "^3.0.2",
+    "merge2": "^0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nulldev@bitbucket.org/nulldev/alexa-places.git"
+  },
+  "keywords": [
+    "alexa",
+    "amazon",
+    "echo"
+  ],
+  "author": "Ashish K Mondal",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nulldev/alexa-places#readme"
+}
